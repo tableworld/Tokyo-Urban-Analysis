@@ -1,4 +1,4 @@
-# Tokyo Project | SYNTHARA ARC Urban Systems Prototype
+# Tokyo Urban Analysis
 
 ## Vision
 Reimagining Tokyo’s urban data through a design philosophy that blends data science, aesthetic urbanism, and generative foresight.
@@ -16,7 +16,7 @@ Reimagining Tokyo’s urban data through a design philosophy that blends data sc
 
 ---
 
-## Mythos Alignment
+## Alignment
 
 *"Cities are living systems. Data is not just information; it is memory.  
-As LYRA evolves, so does our approach to harmonizing the human-urban symphony."*
+As the project evolves, so does our approach to harmonizing the human-urban symphony."*
