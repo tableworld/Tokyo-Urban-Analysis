@@ -8,7 +8,7 @@ Reimagining Tokyo’s urban data through a design philosophy that blends data sc
 - Green space represented as scaled visual elements.
 - Visualizes trade-offs in urban design using real-world data structures.
 
-![image alt]{https://github.com/tableworld/Tokyo-Urban-Analysis/blob/93a3cff483c11aba07cfc04b236e6e451454659f/updated%20tokyo%20data%20visualization.png}
+![image alt](https://github.com/tableworld/Tokyo-Urban-Analysis/blob/93a3cff483c11aba07cfc04b236e6e451454659f/updated%20tokyo%20data%20visualization.png)
 
 ## Next Steps
 - Integrate real, updated Tokyo data.
